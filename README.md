@@ -1,10 +1,12 @@
 <div align="center">
-<img src="./assets/banner.svg" width="100%"/>
-</div>
 
-<br/>
+# Krish Vekriya
 
-<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Flutter+%26+Android+App+Developer+%F0%9F%93%B1;Founder+%40+Setubandh+Tech;Shipping+Real+Apps+to+the+Play+Store+%F0%9F%9A%80" />
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=krishvekriya12&label=Profile%20Views&color=8a2be2&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/krishvekriya12?label=Followers&style=for-the-badge&color=8a2be2" />
