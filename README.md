@@ -1,12 +1,10 @@
 <div align="center">
-
-# Hi, I'm Krish Vekriya 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Flutter+%26+Android+Apps+%F0%9F%93%B1;Founder+%40+Setubandh+Tech;Shipping+Apps+to+the+Play+Store+%F0%9F%9A%80;Always+Learning%2C+Always+Building" />
-</a>
+<img src="./assets/banner.svg" width="100%"/>
+</div>
 
 <br/>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=krishvekriya12&label=Profile%20Views&color=8a2be2&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/krishvekriya12?label=Followers&style=for-the-badge&color=8a2be2" />
@@ -20,20 +18,20 @@
 ```yaml
 name: Krish Vekriya
 location: Surat, India
-role: Flutter & Android Developer
+role: Flutter & Android App Developer
 studio: Setubandh Tech (Founder)
 previously: Susamp Infotech, SmartOnSolution
-focus: Shipping real, production apps to the Google Play Store
+focus: Building & shipping real apps to the Google Play Store
 portfolio: https://krishvekriya12.github.io
 fun_fact: "I debug faster than I make chai ☕"
 ```
 
 <br/>
 
-## 🛠️ Tech I Build Apps With
+## 🛠️ App Development Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,firebase,androidstudio,sqlite,git,github,vscode,gradle,figma&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,firebase,androidstudio,sqlite,git,github,gradle&theme=dark&perline=5"/>
 </div>
 
 <br/>
@@ -51,22 +49,24 @@ fun_fact: "I debug faster than I make chai ☕"
 
 <br/>
 
-## 🚀 Featured Projects
+## 📱 Apps I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌐 [Portfolio Site](https://krishvekriya12.github.io)**
-My personal site showcasing all shipped apps.
-`HTML` `CSS` `JS`
+**💰 Tip Split**
+Flutter app to split bills & tips with friends, fast and simple.
+`Flutter` `Dart`
+[View Repo →](https://github.com/krishvekriya12/tip_split)
 
 </td>
 <td width="50%" valign="top">
 
-**💰 [Tip Split](https://github.com/krishvekriya12/tip_split)**
-A Flutter app to split bills & tips easily.
-`Flutter` `Dart`
+**📲 More on Play Store**
+Digital Card Wallet, GPS & utility apps shipped for clients + my own studio.
+`Kotlin` `Java` `Firebase`
+[View all apps →](https://play.google.com/store/apps/dev?id=7084161944711464301)
 
 </td>
 </tr>
