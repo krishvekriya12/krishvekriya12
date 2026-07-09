@@ -20,10 +20,7 @@ name: Krish Vekriya
 location: Surat, India
 role: Flutter & Android App Developer
 studio: Setubandh Tech (Founder)
-previously: Susamp Infotech, SmartOnSolution
-focus: Building & shipping real apps to the Google Play Store
 portfolio: https://krishvekriya12.github.io
-fun_fact: "I debug faster than I make chai ☕"
 ```
 
 <br/>
@@ -46,31 +43,6 @@ fun_fact: "I debug faster than I make chai ☕"
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishvekriya12&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
 </div>
-
-<br/>
-
-## 📱 Apps I've Built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**💰 Tip Split**
-Flutter app to split bills & tips with friends, fast and simple.
-`Flutter` `Dart`
-[View Repo →](https://github.com/krishvekriya12/tip_split)
-
-</td>
-<td width="50%" valign="top">
-
-**📲 More on Play Store**
-Digital Card Wallet, GPS & utility apps shipped for clients + my own studio.
-`Kotlin` `Java` `Firebase`
-[View all apps →](https://play.google.com/store/apps/dev?id=7084161944711464301)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
