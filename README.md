@@ -55,8 +55,7 @@ portfolio: https://krishvekriya12.github.io
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishvekriya12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=krishvekriya12&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=krishvekriya12&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="180"/>
 
 </div>
 
