@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krish%20Vekriya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Android%20App%20Developer&descAlignY=58&descSize=18" width="100%"/>
+# Krish Vekriya
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Flutter+%26+Android+App+Developer+%F0%9F%93%B1;Founder+%40+Setubandh+Tech+%F0%9F%9A%80;Shipping+Real+Apps+to+the+Play+Store+%F0%9F%93%A6" />
@@ -74,5 +74,3 @@ portfolio: https://krishvekriya12.github.io
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishvekriya44@gmail.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
