@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=krishvekriya12&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile Views"/>
+[![krish vekriya profile views](https://u8views.com/api/v1/github/profiles/131762007/views/day-week-month-total-count.svg)](https://u8views.com/github/krishvekriya12)
 <img src="https://img.shields.io/github/followers/krishvekriya12?label=Followers&style=for-the-badge&color=8a2be2" alt="Followers"/>
 
 </div>
