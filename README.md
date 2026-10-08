@@ -21,7 +21,7 @@ name:      Krish Vekriya
 location:  Surat, India 🇮🇳
 role:      Flutter & Android App Developer
 studio:    Setubandh Tech (Founder)
-portfolio: https://krishvekriya12.github.io
+portfolio: https://portfolio.setubandhtech.digital/
 ```
 
 - 🚀 Building and shipping production apps to the **Play Store**
